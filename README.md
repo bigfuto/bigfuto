@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+### I'm python developer Ilya and likes to write code.
+
+##### Python | Django | Django REST framework | Django ORM |  PostgreSQL | YDB
+##### Docker | Nginx | gunicorn | Unittest | Swagger | Logging 
 
 <!--
 **bigfuto/bigfuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
